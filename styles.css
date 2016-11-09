@@ -1,0 +1,20 @@
+body{
+	margin:10%;
+	background-color: silver;
+}
+main{
+	background-color: white;
+	padding:5%;
+	border: 1px solid green;
+}
+
+
+h1{
+	text-transform: uppercase;
+	margin-bottom: 15%;
+}
+footer{
+	text-align: right;
+	font-weight: bold;
+	text-transform: uppercase;
+}
